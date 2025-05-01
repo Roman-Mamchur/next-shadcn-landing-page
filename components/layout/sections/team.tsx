@@ -34,10 +34,6 @@ export const TeamSection = () => {
           url: "https://www.linkedin.com/in/leopoldo-miranda/",
         },
         {
-          name: "Github",
-          url: "https://github.com/leoMirandaa",
-        },
-        {
           name: "X",
           url: "https://x.com/leo_mirand4",
         },
